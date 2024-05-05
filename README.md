@@ -32,12 +32,3 @@ on other images, have to show 102_Main Profile 03
 Card is draggable to left and bottom side.
 On dragged to left or bottom, the card should be disappeared
 If there is no more cards to show, show 110_No Cards
-Tip
-DO NOT USE 90% / 80%. This is usually messing up the UI.
-
-
-Make the UI exactly same as the image on the left
-Consider all data is fixed with current system
-You can use the Korean word copy & paste in here
-Please generate apk for the assignment
-After created the code, push it to github with your account with public, and share the url to us with your information - name / phone number / cv / github link / apk to suman@hyperhire.in with CC your recruiter
