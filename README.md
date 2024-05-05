@@ -20,15 +20,28 @@ Assessment Introduction
 
 Dating Cards data
 ** Realtime part has been removed since 01/05/2024
+
 100, 101, 102 is a same card.
+
 implement the carousel with cards
+
 Dating Cards Action
+
 on tapping left-top side of the card, need to show previous image
+
 on tapping right-top side of the card, need to show next image
+
 on first image, have to show 100_Main Profile 01
+
 on second image, have to show 101_Main Profile 02
+
 on third image, have to show 102_Main Profile 03
+
 on other images, have to show 102_Main Profile 03
+
 Card is draggable to left and bottom side.
+
 On dragged to left or bottom, the card should be disappeared
+
 If there is no more cards to show, show 110_No Cards
+
